@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: rgb(134, 5, 134);
+}
+
+.heading {
+    margin: 0% 1%;
+    color: white;
+}
+
+.date {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top: 10%;
+}
+
+.container-time {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+
+.time {
+    font-size: 60px;
+    color: white;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(134, 5, 134);
+    padding: 1% 0 1% 0;
+    border-radius: 10px;
+}
