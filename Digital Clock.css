@@ -30,7 +30,7 @@ header {
 .time {
     font-size: 60px;
     color: white;
-    width: 40%;
+    width: 50%;
     display: flex;
     justify-content: center;
     background-color: rgb(134, 5, 134);
