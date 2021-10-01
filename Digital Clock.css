@@ -28,6 +28,7 @@ header {
 }
 
 .time {
+    font-size: 45%;
     color: white;
     width: 50%;
     display: flex;
